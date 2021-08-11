@@ -1,0 +1,5 @@
+# [logrocket.com]
+cdn.logrocket.com
+
+# [logrocket.io]
+cdn.logrocket.io
