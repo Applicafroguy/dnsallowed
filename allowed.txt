@@ -8,7 +8,7 @@ app.logrocket.com
 cdn.logrocket.io
 
 staging-i.lr-in.com
-statuspage.io/
+*.statuspage.io/
 wykzh58rpbks.statuspage.io/
 
 *.launchdarkly.com
