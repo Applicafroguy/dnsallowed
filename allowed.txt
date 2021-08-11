@@ -1,5 +1,6 @@
 # [logrocket.com]
 cdn.logrocket.com
+app.logrocket.com
 
 # [logrocket.io]
 cdn.logrocket.io
