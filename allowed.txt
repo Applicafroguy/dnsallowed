@@ -1,6 +1,14 @@
 # [logrocket.com]
 cdn.logrocket.com
 app.logrocket.com
+*.logrocket.com
+*.logicanalytics.io
 
 # [logrocket.io]
 cdn.logrocket.io
+
+staging-i.lr-in.com
+*.statuspage.io/
+wykzh58rpbks.statuspage.io/
+
+*.launchdarkly.com
