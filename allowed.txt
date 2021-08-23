@@ -12,3 +12,6 @@ staging-i.lr-in.com
 wykzh58rpbks.statuspage.io/
 
 *.launchdarkly.com
+
+# PhoneSystem
+*.3cx.com
